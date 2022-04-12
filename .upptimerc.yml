@@ -9,6 +9,8 @@ sites:
     url: http://mikrotik-2.cpe-lab.com:9980/
   - name: NokiaCL
     url: https://nokiacl.fpt.vn/
+  - name: PWIFI-FAS
+    url: http://fas.pwifi.cpe-lab.com:9988/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
