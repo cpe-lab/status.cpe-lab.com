@@ -22,9 +22,9 @@
     "url": "http://mikrotik-2.cpe-lab.com:9980/",
     "icon": "https://favicons.githubusercontent.com/mikrotik-2.cpe-lab.com",
     "slug": "mikrotik-2",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 501,
     "timeMonth": 484,
     "timeYear": 484,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-15": 0
+    }
   },
   {
     "name": "NokiaCL",
